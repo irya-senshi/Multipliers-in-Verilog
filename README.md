@@ -1,4 +1,4 @@
-# Verilog Multiplier Implementations
+# Multiplier Implementations in Verilog
 
 This repository contains three different implementations of multipliers in Verilog, each showcasing a distinct approach to multiplication. The implementations include:
 
